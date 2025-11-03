@@ -7,5 +7,6 @@
 
 ### TODO bis 05.11.:
 - spannende Fragestellung
+  - Industrieanstieg allgemein? Krieg? Materialknappheit?
 - "cool plot idea" für finalen Report
 - erste investigative Plots
