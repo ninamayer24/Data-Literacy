@@ -11,9 +11,6 @@
 - "cool plot idea" für finalen Report
 - erste investigative Plots
 
-<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/20ddfacb-554f-46f2-820a-aa9aa9dd79c9" />
-Mitte/Ende 1930er: kleiner Peak
-Reichsautobahn-Programm, viele Brücken 1936–39
 
 ### First thoughts (Johanna): 
 **Features (columns) that could be interesting:**
