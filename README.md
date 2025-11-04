@@ -37,3 +37,16 @@ Reichsautobahn-Programm, viele Brücken 1936–39
   - correlation analysis between age (`Baujahr`) and condition (`Zustandsnote`)
   - linear regression/logistic regression (`Zustandsnote` ~ `Baujahr` + `Baustoff` + `Fläche` + population density + ...)
   - dimensionaly reduction? (will be part of the lecture content)
+
+
+  ### First thoughts (Paulina): 
+  **Ideas:**
+  - Regional differences looking at 'Kreis' or 'Bundesland'.
+    - How do the bridge conditions ('Zustandsnote') differ between regions? 
+      - Does that correlate with economic indicators of those regions (need for additional data)?
+    - Are there specific regions with significantly older or newer bridges? (Again correlate with economic indicators)
+    - How does the distribution of bridge materials ('Baustoff Überbau') vary across different regions?
+
+  - Weather Impact (maybe not that easy to get data for): 
+    - Do weather patterns (rain, snow, ice) in different regions affect the 'Zustandsnote'?
+
