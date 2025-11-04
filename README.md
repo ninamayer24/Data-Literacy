@@ -10,6 +10,30 @@
   - Industrieanstieg allgemein? Krieg? Materialknappheit?
 - "cool plot idea" für finalen Report
 - erste investigative Plots
+
 <img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/20ddfacb-554f-46f2-820a-aa9aa9dd79c9" />
 Mitte/Ende 1930er: kleiner Peak
 Reichsautobahn-Programm, viele Brücken 1936–39
+
+### First thoughts (Johanna): 
+**Features (columns) that could be interesting:**
+- Baujahr Überbau
+- Baujahr Unterbau
+- Zustandsnote
+- Baustoff Überbau
+- Länge (m)
+- Breite (m)
+- Fläche (qm)
+- Traglastindex
+- Kreis
+
+**Ideas:**
+- focus on a subset of `Kreis`e and try to find regional differences
+  - either using those `Kreise`e that contain the largest amount of bridges
+  - or using `Kreis`e that have similar number of bridges than `Tübingen`
+- How does the bridge condition (`Zustandsnote`) depend on `Baujahr`, `Baustoff`, ... and regional factors?
+  - regional factors could be population and area (or density)
+- possible analysis: 
+  - correlation analysis between age (`Baujahr`) and condition (`Zustandsnote`)
+  - linear regression/logistic regression (`Zustandsnote` ~ `Baujahr` + `Baustoff` + `Fläche` + population density + ...)
+  - dimensionaly reduction? (will be part of the lecture content)
