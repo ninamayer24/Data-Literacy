@@ -1,4 +1,5 @@
-#Liniendiagram durschschnittliche Zustandsnote über die Baujahre
+```python
+# Liniendiagramm durchschnittliche Zustandsnote über die Baujahre
 
 # Check data
 data["Baujahr Überbau"] = pd.to_numeric(data["Baujahr Überbau"], errors="coerce")
@@ -7,7 +8,7 @@ data["Zustandsnote"] = pd.to_numeric(data["Zustandsnote"], errors="coerce")
 data = data.dropna(subset=["Baujahr Überbau", "Zustandsnote"])
 data = data[data["Baujahr Überbau"] > 1800]
 
-# Calculate mean of each federal state
+# Calculate mean per year
 mean_by_year = data.groupby("Baujahr Überbau")["Zustandsnote"].mean().reset_index()
 
 # Plot
@@ -33,6 +34,18 @@ for name, jahr in ereignisse.items():
     plt.axvline(x=jahr, color="red", linestyle="--", alpha=0.6)
     plt.text(jahr + 0.5, plt.ylim()[1]*0.98, name, rotation=90,
              color="red", fontsize=9, va="top")
+
 plt.legend()
 plt.tight_layout()
 plt.show()
+
+}
+
+for name, jahr in ereignisse.items():
+    plt.axvline(x=jahr, color="red", linestyle="--", alpha=0.6)
+    plt.text(jahr + 0.5, plt.ylim()[1]*0.98, name, rotation=90,
+             color="red", fontsize=9, va="top")
+plt.legend()
+plt.tight_layout()
+plt.show()
+```
