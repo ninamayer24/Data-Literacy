@@ -50,3 +50,13 @@ Reichsautobahn-Programm, viele Brücken 1936–39
   - Weather Impact (maybe not that easy to get data for): 
     - Do weather patterns (rain, snow, ice) in different regions affect the 'Zustandsnote'?
 
+### First thoughts (Ines): 
+**Ideas:**
+
+Main question:
+- In which federal state are bridges in the worst/best condition and which factors influence the condition? (ralated to year of        construction, type of construction, population density)
+  -> visualisation on map
+- Hypothesis: Federal states with larger populations (e.g. NRW) tend to have more bridges in a bad condition.
+
+- population density in germany - dataset:
+  https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html
