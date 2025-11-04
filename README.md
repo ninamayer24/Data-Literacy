@@ -57,3 +57,7 @@ Main question:
 
 - population density in germany - dataset:
   https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html
+
+**Ideas:** (Nina)
+- map with mean Zustandsnote
+- relation zustandsnote to poputation, density of streets/highways, material, age
