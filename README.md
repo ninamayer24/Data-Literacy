@@ -14,7 +14,7 @@
 
 ### Meeting 06.11.: 
 - Daten für Population/BIP runterladen -> mit Brückendaten kombinieren
-- Feature: Baujahr Überbau, (Baujahr Unterbau), Zustandsnote, Baustoff Überbau, Länge (m), (Zugeordneter Sachverhalt vereinfacht), [Traglastindex, (Teilbauwerksstadium)](https://www.bmv.de/SharedDocs/DE/Artikel/StB/traglastindex.html), (Teilbauwerksart), Kreis, Bundeslandname
+- Feature: Baujahr Überbau, (Baujahr Unterbau), Zustandsnote, Baustoff Überbau, Länge (m), (Zugeordneter Sachverhalt vereinfacht), [Traglastindex](https://www.bmv.de/SharedDocs/DE/Artikel/StB/traglastindex.html), (Teilbauwerksstadium), (Teilbauwerksart), Kreis, Bundeslandname
 - Traglastindex: Was bedeuten die unterschiedliche Indize?
 
 ### TODO bis 12.11.: 
