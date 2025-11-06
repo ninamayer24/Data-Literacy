@@ -7,7 +7,9 @@
 - BIP Landkreise: https://www.statistikportal.de/de/vgrdl/ergebnisse-kreisebene/bruttoinlandsprodukt-bruttowertschoepfung-kreise#alle-ergebnisse
 - population density in germany - dataset:
   https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html
-
+Brücken Bundesamt verkehr chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/bruecken-an-bundesfernstrassen-bilanz-und-ausblick.pdf?__blob=publicationFile
+https://www.transportenvironment.org/te-deutschland/articles/t-e-warnt-vor-triage-bei-der-brueckensanierung
+https://www.transportenvironment.org/uploads/files/20250415_TE_Bruckensanierung.pdf
 
 ### PP
 [Präsentation](https://unitc-my.sharepoint.com/:p:/g/personal/zxozk31_s-cloud_uni-tuebingen_de/EVm-9SQfaCdEnovx00BHWnYB5iVlkjLMcwsPuNIQnTSEbQ?e=S3bRu8)
