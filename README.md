@@ -11,6 +11,12 @@
 
 ### PP
 [Präsentation](https://unitc-my.sharepoint.com/:p:/g/personal/zxozk31_s-cloud_uni-tuebingen_de/EVm-9SQfaCdEnovx00BHWnYB5iVlkjLMcwsPuNIQnTSEbQ?e=S3bRu8)
+
+### Meeting 06.11.: 
+- Daten für Population/BIP runterladen -> mit Brückendaten kombinieren
+- Feature: Baujahr Überbau, (Baujahr Unterbau), Zustandsnote, Baustoff Überbau, Länge (m), (Zugeordneter Sachverhalt vereinfacht), Traglastindex, (Teilbauwerksstadium), (Teilbauwerksart), Kreis, Bundeslandname
+- Traglastindex: Was bedeuten die unterschiedliche Indize?
+
 ### TODO bis 12.11.: 
 - Abstract
 - Overleaf Dokument
