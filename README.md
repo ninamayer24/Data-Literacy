@@ -4,6 +4,10 @@
 - Brückenstatistiken
 - mehr als 50.000 Brücken (rows)
 - [Link zu den Daten](https://opendata-esridech.hub.arcgis.com/datasets/da031936bbaa4aad8302b3bcbf9494b5_0/explore?location=51.010145%2C10.441931%2C6.69&showTable=true)
+- BIP Landkreise: https://www.statistikportal.de/de/vgrdl/ergebnisse-kreisebene/bruttoinlandsprodukt-bruttowertschoepfung-kreise#alle-ergebnisse
+- population density in germany - dataset:
+  https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html
+
 
 ### PP
 [Präsentation](https://unitc-my.sharepoint.com/:p:/g/personal/zxozk31_s-cloud_uni-tuebingen_de/EVm-9SQfaCdEnovx00BHWnYB5iVlkjLMcwsPuNIQnTSEbQ?e=S3bRu8)
