@@ -4,6 +4,25 @@
 - Brückenstatistiken
 - mehr als 50.000 Brücken (rows)
 - [Link zu den Daten](https://opendata-esridech.hub.arcgis.com/datasets/da031936bbaa4aad8302b3bcbf9494b5_0/explore?location=51.010145%2C10.441931%2C6.69&showTable=true)
+- BIP Landkreise: https://www.statistikportal.de/de/vgrdl/ergebnisse-kreisebene/bruttoinlandsprodukt-bruttowertschoepfung-kreise#alle-ergebnisse
+- population density in germany - dataset:
+  https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html
+Brücken Bundesamt verkehr chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/bruecken-an-bundesfernstrassen-bilanz-und-ausblick.pdf?__blob=publicationFile
+https://www.transportenvironment.org/te-deutschland/articles/t-e-warnt-vor-triage-bei-der-brueckensanierung
+https://www.transportenvironment.org/uploads/files/20250415_TE_Bruckensanierung.pdf
+
+### PP
+[Präsentation](https://unitc-my.sharepoint.com/:p:/g/personal/zxozk31_s-cloud_uni-tuebingen_de/EVm-9SQfaCdEnovx00BHWnYB5iVlkjLMcwsPuNIQnTSEbQ?e=S3bRu8)
+
+### Meeting 06.11.: 
+- Daten für Population/BIP runterladen -> mit Brückendaten kombinieren
+- Feature: Baujahr Überbau, (Baujahr Unterbau), Zustandsnote, Baustoff Überbau, Länge (m), (Zugeordneter Sachverhalt vereinfacht), [Traglastindex](https://www.bmv.de/SharedDocs/DE/Artikel/StB/traglastindex.html), (Teilbauwerksstadium), (Teilbauwerksart), Kreis, Bundeslandname
+- Traglastindex: Was bedeuten die unterschiedliche Indize?
+
+### TODO bis 12.11.: 
+- Abstract
+- Overleaf Dokument
+- alle Daten runtergeladen
 
 ### TODO bis 05.11.:
 - spannende Fragestellung
@@ -11,9 +30,6 @@
 - "cool plot idea" für finalen Report
 - erste investigative Plots
 
-<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/20ddfacb-554f-46f2-820a-aa9aa9dd79c9" />
-Mitte/Ende 1930er: kleiner Peak
-Reichsautobahn-Programm, viele Brücken 1936–39
 
 ### First thoughts (Johanna): 
 **Features (columns) that could be interesting:**
@@ -60,3 +76,7 @@ Main question:
 
 - population density in germany - dataset:
   https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html
+
+**Ideas:** (Nina)
+- map with mean Zustandsnote
+- relation zustandsnote to poputation, density of streets/highways, material, age
