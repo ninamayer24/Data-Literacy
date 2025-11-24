@@ -10,7 +10,7 @@
 Brücken Bundesamt verkehr chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/bruecken-an-bundesfernstrassen-bilanz-und-ausblick.pdf?__blob=publicationFile
 https://www.transportenvironment.org/te-deutschland/articles/t-e-warnt-vor-triage-bei-der-brueckensanierung
 https://www.transportenvironment.org/uploads/files/20250415_TE_Bruckensanierung.pdf
-
+[Link zu den Verkehrsdaten](https://www.bast.de/DE/Themen/Digitales/HF_1/Massnahmen/verkehrszaehlung/Daten/2023_1/Jawe2023.html?filter=true&nn=401522&filter=true&map=1)
 ### PP
 [Präsentation](https://unitc-my.sharepoint.com/:p:/g/personal/zxozk31_s-cloud_uni-tuebingen_de/EVm-9SQfaCdEnovx00BHWnYB5iVlkjLMcwsPuNIQnTSEbQ?e=S3bRu8)
 
