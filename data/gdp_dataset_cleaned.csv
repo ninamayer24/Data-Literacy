@@ -10,7 +10,7 @@ Hohenlohekreis,6489.785
 Schwäbisch Hall,10200.716
 Main-Tauber-Kreis,5945.915
 Heidenheim,5330.695
-Ostalb,15956.162
+Ostalbkreis,15956.162
 Baden-Baden,3261.412
 Karlsruhe,20566.44026345526
 Rastatt,11188.647
@@ -78,7 +78,7 @@ Weiden,2698.372
 Amberg-Sulzbach,3423.338
 Cham,6247.637
 Neumarkt,6207.643
-Neustadt An Der Waldnaab,3619.652
+Neustadt an der Waldnaab,3619.652
 Schwandorf,6115.222
 Tirschenreuth,3534.191
 Bamberg,4663.247374970546
@@ -97,15 +97,15 @@ Nürnberg,34715.968
 Schwabach,1710.819
 Erlangen-Höchstadt,5739.511
 Nürnberger Land,6198.871
-Neustadt An Der Aisch-Bad Windsheim,3657.065
+Neustadt an der Aisch-Bad Windsheim,3657.065
 Roth,4557.155
-Weissenburg-Gunzenhausen,3360.977
+Weißenburg-Gunzenhausen,3360.977
 Aschaffenburg,6437.396842396203
 Schweinfurt,3722.7020107326457
 Würzburg,7102.729826089605
 Bad Kissingen,3866.671
 Rhön-Grabfeld,3707.229
-Hassberge,2970.935
+Haßberge,2970.935
 Kitzingen,3708.656
 Miltenberg,5010.425
 Main-Spessart,5286.872
@@ -138,7 +138,7 @@ Oder-Spree,6992.767
 Ostprignitz-Ruppin,3082.703
 Potsdam-Mittelmark,6455.079
 Prignitz,2521.151
-Spree-Neisse,5365.651
+Spree-Neiße,5365.651
 Teltow-Fläming,6970.123
 Uckermark,5118.358
 Bremen,27982.99465659877
@@ -147,16 +147,16 @@ Darmstadt,14076.517
 Frankfurt Am Main,80232.187
 Offenbach,13775.454700269782
 Wiesbaden,20760.561
-Bergstrasse,8923.74
+Bergstraße,8923.74
 Darmstadt-Dieburg,10002.34
-Gross-Gerau,12971.483
+Groß-Gerau,12971.483
 Hochtaunuskreis,12494.935
 Main-Kinzig-Kreis,17374.702
 Main-Taunus-Kreis,15287.048
 Odenwaldkreis,2761.672
 Rheingau-Taunus-Kreis,5105.628
 Wetteraukreis,10722.711
-Giessen,11063.874
+Gießen,11063.874
 Lahn-Dill-Kreis,9974.183
 Limburg-Weilburg,6072.537
 Marburg-Biedenkopf,10416.159
@@ -166,7 +166,7 @@ Fulda,9787.278
 Hersfeld-Rotenburg,5567.155
 Schwalm-Eder-Kreis,6621.582
 Waldeck-Frankenberg,6882.213
-Werra-Meissner-Kreis,2927.272
+Werra-Meißner-Kreis,2927.272
 Rostock,8262.373984260474
 Schwerin,4464.832
 Mecklenburgische Seenplatte,8620.818
@@ -291,7 +291,7 @@ Kaiserslautern,3910.219642180404
 Landau,2405.673
 Ludwigshafen,11775.234
 Mainz,24621.493
-Neustadt An Der Weinstrasse,1834.156
+Neustadt An Der Weinstraße,1834.156
 Pirmasens,1614.959
 Speyer,3132.935
 Worms,3713.323
@@ -301,7 +301,7 @@ Bad Dürkheim,3257.946
 Donnersbergkreis,2159.127
 Germersheim,5923.04
 Kusel,1420.061
-Südliche Weinstrasse,3342.405
+Südliche Weinstraße,3342.405
 Rhein-Pfalz-Kreis,3291.417
 Mainz-Bingen,9523.306
 Südwestpfalz,1703.036
@@ -314,7 +314,7 @@ St Wendel,2672.324
 Dresden,26404.625
 Bautzen,9319.023
 Görlitz,8857.376
-Meissen,7952.222
+Meißen,7952.222
 Sächsische Schweiz-Osterzgebirge,6581.29
 Chemnitz,10053.312
 Erzgebirgskreis,9007.042
@@ -323,7 +323,7 @@ Vogtlandkreis,6607.097
 Zwickau,11090.425
 Leipzig,20221.9895151707
 Nordsachsen,7249.656
-Dessau-Rosslau,2751.639
+Dessau-Roßlau,2751.639
 Halle,8571.547
 Magdeburg,9593.475
 Altmarkkreis Salzwedel,2509.332
@@ -367,7 +367,7 @@ Weimarer Land,2579.587
 Saale-Holzland-Kreis,2324.017
 Saale-Orla-Kreis,2767.45
 Greiz,2520.765
-Altenburg,2206.022
+Altenburger Land,2206.022
 Schmalkalden-Meiningen,3815.597
 Wartburgkreis,5756.451
 Suhl,1259.931
