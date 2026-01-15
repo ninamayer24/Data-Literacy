@@ -1,21 +1,16 @@
-# Data-Literacy Group Project
+# How Good are Bridges in Germany Really?
 
-### Bridge Data
-- bridge statistics
-- more than 50.000 bridges (rows)
-- [URL for bridge data](https://opendata-esridech.hub.arcgis.com/datasets/da031936bbaa4aad8302b3bcbf9494b5_0/explore?location=51.010145%2C10.441931%2C6.69&showTable=true)
+TODO: Map of Germany
 
-### GDP Data
-- GDP for each district in Germany
-- [URL for GDP data](https://www.statistikportal.de/de/vgrdl/ergebnisse-kreisebene/bruttoinlandsprodukt-bruttowertschoepfung-kreise#alle-ergebnisse)
+This repo contains the code and report for the group project to analyse the condition and load of the bridges in Germany. It was part of the lecture *Data Literacy* at the University of Tübingen. 
 
-### Population Density Data
-- population density in Germany
-- [URL for population data](https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html)
+---
 
-### Traffic data
-- TODO
-- [URL for traffic data](https://www.bast.de/DE/Themen/Digitales/HF_1/Massnahmen/verkehrszaehlung/Daten/2023_1/Jawe2023.html?filter=true&nn=401522&filter=true&map=1)
+TODO: small summary of our results 
+
+## Structure
+
+The data that was used can be found in `./data`, while all the implementations and jupyter notebooks are stored in `./code`. The report is stored in `./doc`. 
 
 ### Additional Articles
 - [Brücken an Bundesfernstraßen: Bilanz und Ausblick (Artikel)](https://www.bmv.de/SharedDocs/DE/Anlage/K/presse/bruecken-an-bundesfernstrassen-bilanz-und-ausblick.pdf?__blob=publicationFile)
