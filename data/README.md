@@ -27,3 +27,5 @@ The GDP data includes the GDP for each district in Germany, while the population
 `population_dataset_cleaned.csv`: preprocessed population dataset
 
 `reduced_bridge_statistic_germany.csv`: bridge dataset with reduced number of columns
+
+---
