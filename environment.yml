@@ -1,0 +1,17 @@
+name: bridges
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - plotly
+  - scikit-learn
+  - geopandas
+  - shap
+  - jupyter
+  - ipykernel
