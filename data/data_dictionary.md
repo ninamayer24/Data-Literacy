@@ -1,6 +1,6 @@
 # Data Dictionary - bridges
 
-This document describes the features (columns) in the final bridges dataset (n = 50,000+ rows). The bridges dataset is sourced from [ESRI Open Data](https://opendata-esridech.hub.arcgis.com/datasets/da031936bbaa4aad8302b3bcbf9494b5_0/explore?location=51.010145%2C10.441931%2C6.69&showTable=true). Additional data about population, area per district and GDP per district were merged from [Destatis](https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html) and [Statistikportal](https://www.statistikportal.de/de/vgrdl/ergebnisse-kreisebene/bruttoinlandsprodukt-bruttowertschoepfung-kreise#alle-ergebnisse)
+This document describes the features (columns) in the final bridges dataset (n = 50,000+ rows). The bridges dataset is sourced from [ESRI Open Data](https://opendata-esridech.hub.arcgis.com/datasets/da031936bbaa4aad8302b3bcbf9494b5_0/explore?location=51.010145%2C10.441931%2C6.69&showTable=true). Additional data about population, area per district and GDP per district were merged from [Destatis](https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html) and [Statistikportal](https://www.statistikportal.de/de/vgrdl/ergebnisse-kreisebene/bruttoinlandsprodukt-bruttowertschoepfung-kreise#alle-ergebnisse).
 
 The meaning, data type, and possible values of each feature can be found below.
 
@@ -134,5 +134,6 @@ The meaning, data type, and possible values of each feature can be found below.
 
 
 ---
+
 
 
