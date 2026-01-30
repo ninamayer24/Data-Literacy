@@ -10,7 +10,7 @@ The GDP data includes the GDP for each district in Germany, while the population
 
 ---
 
-`districts.geojson`: TODO
+`districts.geojson`: GeoJSON boundaries for German districts used for plotting the germany map
 
 `filled_bridge_statistic_germany.csv`: bridge dataset without missing values
 
