@@ -1,6 +1,9 @@
 # How Good are Bridges in Germany Really?
 
-TODO: Map of Germany
+## Map of Germany
+
+[Germany mean bridge condition](./code/plots_for_report/germany_mean_bridge_condition_matplotlib.pdf)
+
 
 This repo contains the code and report for the group project to analyse the condition and load of the bridges in Germany. It was part of the lecture *Data Literacy* at the University of Tübingen. 
 
