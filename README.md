@@ -5,6 +5,10 @@ Problem PDF/PNG, lösung mit github pages \
 [Germany mean bridge condition](./code/plots_for_report/germany_mean_bridge_condition_matplotlib.pdf)
 verlinkung interactive
 
+<a href="code/plots_for_report/germany_mean_bridge_condition_matplotlib.pdf">
+  <img src="code/plots_for_report/germany_mean_bridge_condition_matplotlib.png" alt="Document preview" width="400">
+</a>
+
 This repo contains the code and report for the group project to analyse the condition and load of the bridges in Germany. It was part of the lecture *Data Literacy* at the University of Tübingen. 
 
 ---
