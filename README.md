@@ -1,7 +1,7 @@
 # How Good are Bridges in Germany Really?
 
 ## Map of Germany
-Problem PDF/PNG
+Problem PDF/PNG, lösung mit github pages \
 [Germany mean bridge condition](./code/plots_for_report/germany_mean_bridge_condition_matplotlib.pdf)
 verlinkung interactive
 
