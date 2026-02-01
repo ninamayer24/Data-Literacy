@@ -13,7 +13,7 @@ There are regional differences regarding the mean condition score per district. 
 The load index is another indication for the condition of a bridge. It is correlated to the condition score even though a good load index does not imply a good condition score and vice versa. When comparing the same dataset of 2024 and 2025 regarding the condition scores, one can see that bridges with load index 4 and 5 (poor) have generally higher condition scores (poor). 
 
 <a href="code/plots_for_report/zn_change_icml.pdf">
-  <img src="code/plots_for_report/zn_change_icml.png" alt="Document preview" width="400">
+  <img src="code/plots_for_report/zn_change_icml.png" alt="Document preview" width="500">
 </a>
 
 ## Structure
