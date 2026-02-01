@@ -4,7 +4,7 @@
   <img src="code/plots_for_report/germany_mean_bridge_condition_matplotlib.png" alt="Document preview" width="400">
 </a>
 
-This repo contains the code and report for the group project to analyse the condition and load of the bridges in Germany. It was part of the lecture *Data Literacy* at the University of Tübingen. An interactive map of Germany to explore condition scores, load indices, construction years, material of bridges and a lot more can be found [here](https://ninamayer24.github.io/Data-Literacy/). 
+This repo contains the code and report for the group project to analyse the condition and load of the bridges in Germany. It was part of the lecture *Data Literacy* at the University of Tübingen. An interactive map of Germany to explore condition scores, load indices, construction years, material of bridges and a lot more can be found [here](https://ninamayer24.github.io/Data-Literacy/). For the complete interactive map of Germany (with the full side bar menu) use the following [Notebook](./code/map_germany/Map.ipynb). 
 
 ---
 
