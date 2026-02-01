@@ -2,7 +2,7 @@
 
 This directory contains the data that is used throughout the project. We included four different datasets in our analysis, namely: 
 - [Bridges in Germany 2024](https://opendata-esridech.hub.arcgis.com/datasets/da031936bbaa4aad8302b3bcbf9494b5_0/explore?location=51.010145%2C10.441931%2C6.69&showTable=true)
-- [Bridges in Germany 2025]()
+- [Bridges in Germany 2025](https://www.govdata.de/suche/daten/bruckenstatistik)
 - [GDP data in Germany](https://www.statistikportal.de/de/vgrdl/ergebnisse-kreisebene/bruttoinlandsprodukt-bruttowertschoepfung-kreise#alle-ergebnisse) and
 - [Population data in Germany](https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/04-kreise.html)
 
