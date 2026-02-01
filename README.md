@@ -1,4 +1,4 @@
-# How Good are Bridges in Germany Really?
+# Germany’s Bridges: Structural Condition and Load Capacity
 
 <a href="code/plots_for_report/germany_mean_bridge_condition_matplotlib.pdf">
   <img src="code/plots_for_report/germany_mean_bridge_condition_matplotlib.png" alt="Document preview" width="400">
