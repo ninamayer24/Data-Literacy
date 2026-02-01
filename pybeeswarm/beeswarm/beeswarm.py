@@ -249,6 +249,7 @@ def swarm(x, xsize=0, ysize=0, colors="black"):
                 poty[poty_bad] = numpy.infty
                 abs_poty = [abs(item) for item in poty]
                 newoffset = poty[abs_poty.index(min(abs_poty))]
+                out["y"] = out["y"].astype(float)
                 out.loc[i, "y"] = newoffset
             else:
                 out.loc[i, "y"] = 0
