@@ -19,3 +19,7 @@ The load index is another indication for the condition of a bridge. It is correl
 ## Structure
 
 The data that was used can be found in `./data`, while all the implementations and jupyter notebooks are stored in `./code`. The report is stored in `./doc`. 
+
+## Reproduce Analysis and Plots
+
+To run our Jupyter Notebooks reproducing our analysis and the plots included in our report, install the given environment via `conda env create -f environment.yml`. 
