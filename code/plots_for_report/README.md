@@ -5,4 +5,8 @@ The plots for the report are based on particular analysis and interactive plots.
 - [Germany mean bridge condition](./code/plots_for_report/germany_mean_bridge_condition_matplotlib.pdf) created with the code in [`code/map_germany/Map.ipynb`](../map_germany/Map.ipynb).
 - [SHAP Sachsen Anhalt](./code/plots_for_report/SHAP_Sachsen_Anhalt.pdf) created with the code in [`code/linear_regression_random_forest/feature_inspection.ipynb`](../linear_regression_random_forest/feature_inspection.ipynb)
 - [SHAP Thüringen](./code/plots_for_report/SHAP_Thüringen.pdf) created with the code in [`code/linear_regression_random_forest/feature_inspection.ipynb`](../linear_regression_random_forest/feature_inspection.ipynb)
-- [SHAP Comparison](./code/plots_for_report/SHAP_comparison.pdf) created with the code in [`code/linear_regression_random_forest/feature_inspection.ipynb`](..linear_regression_random_forest/feature_inspection.ipynb)
+- [SHAP Comparison](./code/plots_for_report/SHAP_comparison.pdf) created with the code in [`code/linear_regression_random_forest/feature_inspection.ipynb`](../linear_regression_random_forest/feature_inspection.ipynb)
+- [ZN Change ICML](./code/plots_for_report/zn_change_icml.pdf) created with the code in [`code/load_index_permutation_test_pseudotime/Condition_change.ipynb`](../load_index_permutation_test_pseudotime/Condition_change.ipynb)
+- [Load index](./code/plots_for_report/loadindex.pdf) created with the code in [`code/load_index_permutation_test_pseudotime/Load_Index.ipynb`](../load_index_permutation_test_pseudotime/Load_Index.ipynb)
+
+
